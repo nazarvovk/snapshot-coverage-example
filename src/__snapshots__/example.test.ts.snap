@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`example should match function snapshot 1`] = `
+"()=>{
+    const test1 = 'this is a test function';
+    const test2 = '<- when creating a snapshot with --coverage flag, this variable will not be called test2';
+}"
+`;
